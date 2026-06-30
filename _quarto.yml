@@ -12,8 +12,12 @@ website:
       - publications.qmd
       - cv.qmd
       - contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/eliasm56
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true
+    page-layout: full
