@@ -57,15 +57,24 @@ Using nighttime lights and settlement population records to identify severe demo
 
 ---
 
-## Publications
+## Featured First-Author Publications
 
-### Selected Papers
+### Refined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages
 
-1. **Manos, E.**, et al. *Refined Modelling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages.* Earth’s Future.
+**Earth’s Future** · 2026  
+Estimated mid-century permafrost degradation damages across Alaska, Russia, and Canada using improved Arctic building stock data.
 
-2. **Manos, E.**, et al. *Permafrost infrastructure risk paper.* Communications Earth & Environment.
+### Permafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios
 
-[See all publications →](publications.qmd)
+**Communications Earth & Environment** · 2025  
+Projected permafrost-related infrastructure damages in Alaska using satellite-derived building and road exposure data.
+
+### A multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping
+
+**International Journal of Remote Sensing** · 2023  
+Benchmarked CNN architectures for detecting Arctic human-built infrastructure from sub-meter satellite imagery.
+
+[See all publications →](publications.html)
 
 ---
 

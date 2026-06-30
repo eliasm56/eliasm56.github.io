@@ -11,21 +11,35 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Your paper here.\n\n\n\n\n\nFuture manuscript."
+    "text": "Manos, E., Streletskiy, D. A., Witharana, C., Haggerty, E., & Liljedahl, A. K. (2026).\nRefined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages.\nEarth’s Future, 14(7), e2026EF008578.\nhttps://doi.org/10.1029/2026EF008578\n\n\n\nManos, E., Witharana, C., & Liljedahl, A. K. (2025).\nPermafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios.\nCommunications Earth & Environment, 6(1), 1–11.\nhttps://doi.org/10.1038/s43247-025-02191-7\n\n\n\nManos, E., Witharana, C., Perera, A. S., & Liljedahl, A. K. (2023).\nA multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping from sub-meter resolution satellite imagery.\nInternational Journal of Remote Sensing, 44(24), 7670–7705.\nhttps://doi.org/10.1080/01431161.2023.2287563\n\n\n\nManos, E., Witharana, C., Udawalpola, M. R., Hasan, A., & Liljedahl, A. K. (2022).\nConvolutional neural networks for automated built infrastructure detection in the Arctic using sub-meter spatial resolution satellite imagery.\nRemote Sensing, 14(11), 2719.\nhttps://doi.org/10.3390/rs14112719\n\n\n\n\n\n\n\nPerera, A. S., Fernandez, D., Witharana, C., Manos, E., Pimenta, M., Liljedahl, A. K., Nitze, I., Yang, Y., Nicholson, T., Hsu, C.-Y., Li, W., & Grosse, G. (2025).\nPan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings.\nIEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 1–23.\nhttps://doi.org/10.1109/JSTARS.2025.3648673\n\n\n\nLiljedahl, A. K., Witharana, C., & Manos, E. (2024).\nThe capillaries of the Arctic tundra.\nNature Water, 2, 611–614.\nhttps://doi.org/10.1038/s44221-024-00276-9\nPerera, A. S., Witharana, C., Manos, E., & Liljedahl, A. K. (2024).\nHyperparameter Optimization for Large-Scale Remote Sensing Image Analysis Tasks: A Case Study Based on Permafrost Landform Detection Using Deep Learning.\nIEEE Access, 12, 43062–43077.\nhttps://doi.org/10.1109/ACCESS.2024.3379142\n\n\n\nWitharana, C., Udawalpola, M. R., Liljedahl, A. K., Jones, M. K. W., Jones, B. M., Hasan, A., … & Manos, E. (2022).\nAutomated detection of retrogressive thaw slumps in the high Arctic using high-resolution satellite imagery.\nRemote Sensing, 14(17), 4132.\nhttps://doi.org/10.3390/rs14174132\n\n\n\n\n\n\nManos, E. & Witharana, C. (2025). Pan-Arctic Exposure of Buildings to Permafrost Degradation Is Higher than Previously Estimated. 2025 AGU Fall Meeting.\n\nManos, E., Witharana, C., & Liljedahl, A. K. (2024). Deep learning-based building and road detection reveals higher permafrost thaw-related damage costs than previously estimated for Alaska. 2024 AGU Fall Meeting.\nManos, E., Witharana, C., Jones, B. M., Jones, M. K. W., & Liljedahl, A. K. (2022). Understanding Permafrost Landscape Evolution: Ice-Wedge Trough Network Change Detection from Historical Aerial Imagery using CNNs and Graph Analysis. AGU Fall Meeting.\n\n\n\n\n\n\nManos, E. (2025). Arctic circumpolar permafrost region building footprints from &lt;1 meter resolution Maxar satellite imagery and OpenStreetMap Version 2 (2018–2023).\nhttps://doi.org/10.18739/A21R6N311\nManos, E. (2024). Comprehensive baseline inventory of Alaskan buildings and roads detected from 0.5 meter resolution satellite imagery (2018–2023).\nhttps://doi.org/10.18739/A2KS6J64W\nManos, E., Liljedahl, A. K., & Witharana, C. (2024). Ice Wedge Network Centerline and Ice-Wedge Polygon Coverage in the Bernard River Watershed, Banks Island Canada; 2010–2020.\nhttps://doi.org/10.18739/A2610VT6C"
   },
   {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
+    "objectID": "publications.html#first-author-journal-articles",
+    "href": "publications.html#first-author-journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "Your paper here."
+    "text": "Manos, E., Streletskiy, D. A., Witharana, C., Haggerty, E., & Liljedahl, A. K. (2026).\nRefined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages.\nEarth’s Future, 14(7), e2026EF008578.\nhttps://doi.org/10.1029/2026EF008578\n\n\n\nManos, E., Witharana, C., & Liljedahl, A. K. (2025).\nPermafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios.\nCommunications Earth & Environment, 6(1), 1–11.\nhttps://doi.org/10.1038/s43247-025-02191-7\n\n\n\nManos, E., Witharana, C., Perera, A. S., & Liljedahl, A. K. (2023).\nA multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping from sub-meter resolution satellite imagery.\nInternational Journal of Remote Sensing, 44(24), 7670–7705.\nhttps://doi.org/10.1080/01431161.2023.2287563\n\n\n\nManos, E., Witharana, C., Udawalpola, M. R., Hasan, A., & Liljedahl, A. K. (2022).\nConvolutional neural networks for automated built infrastructure detection in the Arctic using sub-meter spatial resolution satellite imagery.\nRemote Sensing, 14(11), 2719.\nhttps://doi.org/10.3390/rs14112719"
   },
   {
-    "objectID": "publications.html#in-review",
-    "href": "publications.html#in-review",
+    "objectID": "publications.html#collaborative-publications",
+    "href": "publications.html#collaborative-publications",
     "title": "Publications",
     "section": "",
-    "text": "Future manuscript."
+    "text": "Perera, A. S., Fernandez, D., Witharana, C., Manos, E., Pimenta, M., Liljedahl, A. K., Nitze, I., Yang, Y., Nicholson, T., Hsu, C.-Y., Li, W., & Grosse, G. (2025).\nPan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings.\nIEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 1–23.\nhttps://doi.org/10.1109/JSTARS.2025.3648673\n\n\n\nLiljedahl, A. K., Witharana, C., & Manos, E. (2024).\nThe capillaries of the Arctic tundra.\nNature Water, 2, 611–614.\nhttps://doi.org/10.1038/s44221-024-00276-9\nPerera, A. S., Witharana, C., Manos, E., & Liljedahl, A. K. (2024).\nHyperparameter Optimization for Large-Scale Remote Sensing Image Analysis Tasks: A Case Study Based on Permafrost Landform Detection Using Deep Learning.\nIEEE Access, 12, 43062–43077.\nhttps://doi.org/10.1109/ACCESS.2024.3379142\n\n\n\nWitharana, C., Udawalpola, M. R., Liljedahl, A. K., Jones, M. K. W., Jones, B. M., Hasan, A., … & Manos, E. (2022).\nAutomated detection of retrogressive thaw slumps in the high Arctic using high-resolution satellite imagery.\nRemote Sensing, 14(17), 4132.\nhttps://doi.org/10.3390/rs14174132"
+  },
+  {
+    "objectID": "publications.html#conference-abstracts",
+    "href": "publications.html#conference-abstracts",
+    "title": "Publications",
+    "section": "",
+    "text": "Manos, E. & Witharana, C. (2025). Pan-Arctic Exposure of Buildings to Permafrost Degradation Is Higher than Previously Estimated. 2025 AGU Fall Meeting.\n\nManos, E., Witharana, C., & Liljedahl, A. K. (2024). Deep learning-based building and road detection reveals higher permafrost thaw-related damage costs than previously estimated for Alaska. 2024 AGU Fall Meeting.\nManos, E., Witharana, C., Jones, B. M., Jones, M. K. W., & Liljedahl, A. K. (2022). Understanding Permafrost Landscape Evolution: Ice-Wedge Trough Network Change Detection from Historical Aerial Imagery using CNNs and Graph Analysis. AGU Fall Meeting."
+  },
+  {
+    "objectID": "publications.html#datasets",
+    "href": "publications.html#datasets",
+    "title": "Publications",
+    "section": "",
+    "text": "Manos, E. (2025). Arctic circumpolar permafrost region building footprints from &lt;1 meter resolution Maxar satellite imagery and OpenStreetMap Version 2 (2018–2023).\nhttps://doi.org/10.18739/A21R6N311\nManos, E. (2024). Comprehensive baseline inventory of Alaskan buildings and roads detected from 0.5 meter resolution satellite imagery (2018–2023).\nhttps://doi.org/10.18739/A2KS6J64W\nManos, E., Liljedahl, A. K., & Witharana, C. (2024). Ice Wedge Network Centerline and Ice-Wedge Polygon Coverage in the Bernard River Watershed, Banks Island Canada; 2010–2020.\nhttps://doi.org/10.18739/A2610VT6C"
   },
   {
     "objectID": "index.html",
@@ -56,11 +70,11 @@
     "text": "Featured Projects\n\nHABITAT: Arctic Building Footprints\nA pan-Arctic building inventory developed using deep learning and high-resolution satellite imagery.\n\n\nPermafrost Degradation Damages\nEstimating mid-century damages to Arctic buildings from permafrost degradation.\n\n\nRussian Arctic Settlement Change\nUsing nighttime lights and settlement population records to identify severe demographic and infrastructure decline."
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
+    "objectID": "index.html#featured-first-author-publications",
+    "href": "index.html#featured-first-author-publications",
     "title": "Home",
-    "section": "Publications",
-    "text": "Publications\n\nSelected Papers\n\nManos, E., et al. Refined Modelling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages. Earth’s Future.\nManos, E., et al. Permafrost infrastructure risk paper. Communications Earth & Environment.\n\nSee all publications →"
+    "section": "Featured First-Author Publications",
+    "text": "Featured First-Author Publications\n\nRefined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages\nEarth’s Future · 2026\nEstimated mid-century permafrost degradation damages across Alaska, Russia, and Canada using improved Arctic building stock data.\n\n\nPermafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios\nCommunications Earth & Environment · 2025\nProjected permafrost-related infrastructure damages in Alaska using satellite-derived building and road exposure data.\n\n\nA multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping\nInternational Journal of Remote Sensing · 2023\nBenchmarked CNN architectures for detecting Arctic human-built infrastructure from sub-meter satellite imagery.\nSee all publications →"
   },
   {
     "objectID": "index.html#news",

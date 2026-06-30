@@ -1,13 +1,86 @@
 ---
-title: Publications
+title: "Publications"
 ---
 
 # Publications
 
-## Journal Articles
+## First-Author Journal Articles
 
-1. Your paper here.
+### 2026
 
-## In Review
+**Manos, E.**, Streletskiy, D. A., Witharana, C., Haggerty, E., & Liljedahl, A. K. (2026).  
+*Refined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages.*  
+**Earth’s Future, 14**(7), e2026EF008578.  
+<https://doi.org/10.1029/2026EF008578>
 
-- Future manuscript.
+### 2025
+
+**Manos, E.**, Witharana, C., & Liljedahl, A. K. (2025).  
+*Permafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios.*  
+**Communications Earth & Environment, 6**(1), 1–11.  
+<https://doi.org/10.1038/s43247-025-02191-7>
+
+### 2023
+
+**Manos, E.**, Witharana, C., Perera, A. S., & Liljedahl, A. K. (2023).  
+*A multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping from sub-meter resolution satellite imagery.*  
+**International Journal of Remote Sensing, 44**(24), 7670–7705.  
+<https://doi.org/10.1080/01431161.2023.2287563>
+
+### 2022
+
+**Manos, E.**, Witharana, C., Udawalpola, M. R., Hasan, A., & Liljedahl, A. K. (2022).  
+*Convolutional neural networks for automated built infrastructure detection in the Arctic using sub-meter spatial resolution satellite imagery.*  
+**Remote Sensing, 14**(11), 2719.  
+<https://doi.org/10.3390/rs14112719>
+
+---
+
+## Collaborative Publications
+
+### 2025
+
+Perera, A. S., Fernandez, D., Witharana, C., **Manos, E.**, Pimenta, M., Liljedahl, A. K., Nitze, I., Yang, Y., Nicholson, T., Hsu, C.-Y., Li, W., & Grosse, G. (2025).  
+*Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings.*  
+**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 1–23.  
+<https://doi.org/10.1109/JSTARS.2025.3648673>
+
+### 2024
+
+Liljedahl, A. K., Witharana, C., & **Manos, E.** (2024).  
+*The capillaries of the Arctic tundra.*  
+**Nature Water, 2**, 611–614.  
+<https://doi.org/10.1038/s44221-024-00276-9>
+
+Perera, A. S., Witharana, C., **Manos, E.**, & Liljedahl, A. K. (2024).  
+*Hyperparameter Optimization for Large-Scale Remote Sensing Image Analysis Tasks: A Case Study Based on Permafrost Landform Detection Using Deep Learning.*  
+**IEEE Access, 12**, 43062–43077.  
+<https://doi.org/10.1109/ACCESS.2024.3379142>
+
+### 2022
+
+Witharana, C., Udawalpola, M. R., Liljedahl, A. K., Jones, M. K. W., Jones, B. M., Hasan, A., ... & **Manos, E.** (2022).  
+*Automated detection of retrogressive thaw slumps in the high Arctic using high-resolution satellite imagery.*  
+**Remote Sensing, 14**(17), 4132.  
+<https://doi.org/10.3390/rs14174132>
+
+---
+
+## Conference Abstracts
+
+1. **Manos, E.** & Witharana, C. (2025). *Pan-Arctic Exposure of Buildings to Permafrost Degradation Is Higher than Previously Estimated.* 2025 AGU Fall Meeting.  
+2. **Manos, E.**, Witharana, C., & Liljedahl, A. K. (2024). *Deep learning-based building and road detection reveals higher permafrost thaw-related damage costs than previously estimated for Alaska.* 2024 AGU Fall Meeting.
+3. **Manos, E.**, Witharana, C., Jones, B. M., Jones, M. K. W., & Liljedahl, A. K. (2022). *Understanding Permafrost Landscape Evolution: Ice-Wedge Trough Network Change Detection from Historical Aerial Imagery using CNNs and Graph Analysis.* AGU Fall Meeting.
+
+---
+
+## Datasets
+
+1. **Manos, E.** (2025). *Arctic circumpolar permafrost region building footprints from <1 meter resolution Maxar satellite imagery and OpenStreetMap Version 2 (2018–2023).*  
+   <https://doi.org/10.18739/A21R6N311>
+
+2. **Manos, E.** (2024). *Comprehensive baseline inventory of Alaskan buildings and roads detected from 0.5 meter resolution satellite imagery (2018–2023).*  
+   <https://doi.org/10.18739/A2KS6J64W>
+
+3. **Manos, E.**, Liljedahl, A. K., & Witharana, C. (2024). *Ice Wedge Network Centerline and Ice-Wedge Polygon Coverage in the Bernard River Watershed, Banks Island Canada; 2010–2020.*  
+   <https://doi.org/10.18739/A2610VT6C>
