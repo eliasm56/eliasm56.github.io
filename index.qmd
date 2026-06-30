@@ -1,0 +1,17 @@
+---
+title: Home
+---
+
+# Elias Manos
+
+## Geospatial Data Scientist | PhD Candidate
+
+Welcome to my research website.
+
+### Research Interests
+
+- GeoAI
+- Arctic infrastructure
+- Remote sensing
+- Nighttime lights
+- Permafrost

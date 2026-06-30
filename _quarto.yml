@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elias Manos"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - cv.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
