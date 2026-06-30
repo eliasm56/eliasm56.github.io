@@ -1,17 +1,83 @@
 ---
-title: Home
+title: "Home"
 ---
 
-# Elias Manos
+## Elias Manos
 
-## Geospatial Data Scientist | PhD Candidate
+::: {.hero}
+**PhD Candidate | Geospatial Data Scientist**  
+University of Connecticut
 
-Welcome to my research website.
+I use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments.
+:::
 
-### Research Interests
+---
 
-- GeoAI
-- Arctic infrastructure
-- Remote sensing
-- Nighttime lights
-- Permafrost
+## Research Areas
+
+::: {.grid}
+
+::: {.g-col-6}
+### Arctic Infrastructure Risk
+Estimating climate-related exposure and damages to buildings and infrastructure across permafrost regions.
+:::
+
+::: {.g-col-6}
+### GeoAI for Building Detection
+Developing deep learning methods to map buildings in remote and data-scarce Arctic regions.
+:::
+
+::: {.g-col-6}
+### Nighttime Lights & Settlement Change
+Using satellite nighttime lights to characterize post-Soviet settlement decline and activity change.
+:::
+
+::: {.g-col-6}
+### Remote Sensing for Human Geography
+Combining Earth observation, population data, and spatial modeling to study human-environment systems.
+:::
+
+:::
+
+---
+
+## Featured Projects
+
+### HABITAT: Arctic Building Footprints
+
+A pan-Arctic building inventory developed using deep learning and high-resolution satellite imagery.
+
+### Permafrost Degradation Damages
+
+Estimating mid-century damages to Arctic buildings from permafrost degradation.
+
+### Russian Arctic Settlement Change
+
+Using nighttime lights and settlement population records to identify severe demographic and infrastructure decline.
+
+---
+
+## Publications
+
+### Selected Papers
+
+1. **Manos, E.**, et al. *Refined Modelling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages.* Earth’s Future.
+
+2. **Manos, E.**, et al. *Permafrost infrastructure risk paper.* Communications Earth & Environment.
+
+[See all publications →](publications.qmd)
+
+---
+
+## News
+
+- **2026** — Earth’s Future paper accepted.
+- **2026** — Communications Earth & Environment paper accepted in principle.
+- **2026** — Building personal research website.
+
+---
+
+## Contact
+
+Email: `your.email@uconn.edu`  
+GitHub: <https://github.com/eliasm56>
