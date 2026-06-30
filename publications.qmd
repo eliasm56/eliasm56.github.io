@@ -1,0 +1,47 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed publications
+
+::: {.pub}
+::: {.pub-title}
+Refined modelling of Arctic circumpolar building stock increases estimated mid-century permafrost degradation damages
+:::
+::: {.pub-meta}
+Earth's Future. Accepted / in production.
+:::
+:::
+
+::: {.pub}
+::: {.pub-title}
+Permafrost degradation and infrastructure risk in Alaska
+:::
+::: {.pub-meta}
+Communications Earth & Environment. Accepted in principle.
+:::
+:::
+
+## Manuscripts and works in progress
+
+::: {.pub}
+::: {.pub-title}
+Mapping and modeling settlement decline in the Russian Arctic using nighttime lights and population validation data
+:::
+::: {.pub-meta}
+Dissertation chapter / manuscript in preparation.
+:::
+:::
+
+::: {.pub}
+::: {.pub-title}
+GeoAI-derived building inventories for Arctic climate risk assessment
+:::
+::: {.pub-meta}
+Dissertation chapter / manuscript in preparation.
+:::
+:::
+
+## Notes
+
+Replace these placeholders with final citation details, DOI links, author order, journal volume, and publication dates when available.

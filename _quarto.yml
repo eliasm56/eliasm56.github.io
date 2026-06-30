@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elias Manos"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: data-code.qmd
+        text: Data & Code
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/eliasm56
+      - icon: envelope
+        href: mailto:eliasmanos88@gmail.com
+  page-footer:
+    left: "© 2026 Elias Manos"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
