@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\nEmail: your.email@uconn.edu\nGitHub: https://github.com/eliasm56\nGoogle Scholar\nORCID"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your paper here.\n\n\n\n\n\nFuture manuscript."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Your paper here."
+  },
+  {
+    "objectID": "publications.html#in-review",
+    "href": "publications.html#in-review",
+    "title": "Publications",
+    "section": "",
+    "text": "Future manuscript."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "PhD Candidate | Geospatial Data Scientist\nUniversity of Connecticut\nI use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments."
+  },
+  {
+    "objectID": "index.html#elias-manos",
+    "href": "index.html#elias-manos",
+    "title": "Home",
+    "section": "",
+    "text": "PhD Candidate | Geospatial Data Scientist\nUniversity of Connecticut\nI use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments."
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Home",
+    "section": "Research Areas",
+    "text": "Research Areas\n\n\nArctic Infrastructure Risk\nEstimating climate-related exposure and damages to buildings and infrastructure across permafrost regions.\n\n\nGeoAI for Building Detection\nDeveloping deep learning methods to map buildings in remote and data-scarce Arctic regions.\n\n\nNighttime Lights & Settlement Change\nUsing satellite nighttime lights to characterize post-Soviet settlement decline and activity change.\n\n\nRemote Sensing for Human Geography\nCombining Earth observation, population data, and spatial modeling to study human-environment systems."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nHABITAT: Arctic Building Footprints\nA pan-Arctic building inventory developed using deep learning and high-resolution satellite imagery.\n\n\nPermafrost Degradation Damages\nEstimating mid-century damages to Arctic buildings from permafrost degradation.\n\n\nRussian Arctic Settlement Change\nUsing nighttime lights and settlement population records to identify severe demographic and infrastructure decline."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Home",
+    "section": "Publications",
+    "text": "Publications\n\nSelected Papers\n\nManos, E., et al. Refined Modelling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages. Earth’s Future.\nManos, E., et al. Permafrost infrastructure risk paper. Communications Earth & Environment.\n\nSee all publications →"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Home",
+    "section": "News",
+    "text": "News\n\n2026 — Earth’s Future paper accepted.\n2026 — Communications Earth & Environment paper accepted in principle.\n2026 — Building personal research website."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "Contact",
+    "text": "Contact\nEmail: your.email@uconn.edu\nGitHub: https://github.com/eliasm56"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Describe your Arctic infrastructure work.\n\n\n\nDescribe your nighttime lights research."
+  },
+  {
+    "objectID": "research.html#project-1",
+    "href": "research.html#project-1",
+    "title": "Research",
+    "section": "",
+    "text": "Describe your Arctic infrastructure work."
+  },
+  {
+    "objectID": "research.html#project-2",
+    "href": "research.html#project-2",
+    "title": "Research",
+    "section": "",
+    "text": "Describe your nighttime lights research."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculum Vitae\nDownload: CV (PDF)"
+  }
+]
