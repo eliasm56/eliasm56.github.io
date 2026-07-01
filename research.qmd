@@ -25,7 +25,7 @@ Estimated non-residential building volume used for infrastructure damage assessm
 
 Projected mid-century damages under a moderate climate scenario.
 
-![](assets/images/2panel_dam_cost_res_usd2024_p50.png){width=100%}
+![](assets\images\2panel_dam_cost_res_usd2024_p50_continuous.png){width=100%}
 
 ---
 
@@ -33,4 +33,4 @@ Projected mid-century damages under a moderate climate scenario.
 
 Projected mid-century damages for non-residential infrastructure.
 
-![](assets/images/2panel_dam_cost_nonres_usd2024_p50.png){width=100%}
+![](assets\images\2panel_dam_cost_nonres_usd2024_p50_continuous.png){width=100%}
