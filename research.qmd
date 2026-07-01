@@ -3,7 +3,11 @@ title: Research
 page-layout: full
 ---
 
-# Pan-Arctic Infrastructure Exposure
+# Arctic Circumpolar Permafrost Degradation Impacts
+
+Our understanding of climate risk is only as good as our understanding of our exposure to hazards. 
+The better we can account for what is at risk, the better we can measure risk in a changing world. 
+The estimated cost of building damage caused by projeced permafrost degradation.
 
 ## Residential Building Damages
 
@@ -25,3 +29,13 @@ Estimated non-residential building volume used for infrastructure damage assessm
 
 ---
 
+# Mapping the Arctic Circumpolar Building Stock
+
+## Building detection
+![](assets\images\detection_workflow.PNG){width=100%}
+
+## Building occupancy classification
+![](assets\images\classification_workflow.PNG){width=100%}
+
+## Residential building volume estimation
+![](assets\images\volume_workflow.PNG){width=100%}
