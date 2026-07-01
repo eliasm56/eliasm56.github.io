@@ -4,32 +4,48 @@ title: Research
 
 # Research
 
-## Project 1
+## Permafrost Infrastructure Damage
 
 ::: {.grid}
 
-::: {.g-col-4}
-![](assets\images\BC_overlay_LAEA_Residential_Building_Volume.png)
+::: {.g-col-6}
 
-### Arctic Building Detection
-Deep learning-derived building footprints across Arctic communities.
+![](assets/images/BC_overlay_LAEA_Residential_Building_Volume.png)
+
+### Residential Building Volume
+
+Deep learning-derived estimates of residential building volume across the Arctic.
+
 :::
 
-::: {.g-col-4}
-![](assets\images\BC_overlay_LAEA_NonResidential_Building_Volume.png)
+::: {.g-col-6}
 
-### Permafrost Damage Risk
-Projected mid-century infrastructure damages from permafrost degradation.
+![](assets/images/BC_overlay_LAEA_NonResidential_Building_Volume.png)
+
+### Non-Residential Building Volume
+
+Estimated non-residential building volume used for infrastructure damage assessment.
+
 :::
 
-::: {.g-col-4}
-![](assets\images\2panel_dam_cost_res_usd2024_p50.png)
+::: {.g-col-6}
 
-::: {.g-col-4}
-![](assets\images\2panel_dam_cost_nonres_usd2024_p50.png)
+![](assets/images/2panel_dam_cost_res_usd2024_p50.png)
 
-### Settlement Change
-Nighttime lights reveal settlement activity change across the Russian Arctic.
+### Residential Damage Estimates
+
+Projected mid-century residential infrastructure damages from permafrost degradation.
+
+:::
+
+::: {.g-col-6}
+
+![](assets/images/2panel_dam_cost_nonres_usd2024_p50.png)
+
+### Non-Residential Damage Estimates
+
+Projected mid-century non-residential infrastructure damages from permafrost degradation.
+
 :::
 
 :::
