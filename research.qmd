@@ -6,8 +6,30 @@ title: Research
 
 ## Project 1
 
-Describe your Arctic infrastructure work.
+::: {.grid}
 
-## Project 2
+::: {.g-col-4}
+![](assets\images\BC_overlay_LAEA_Residential_Building_Volume.png)
 
-Describe your nighttime lights research.
+### Arctic Building Detection
+Deep learning-derived building footprints across Arctic communities.
+:::
+
+::: {.g-col-4}
+![](assets\images\BC_overlay_LAEA_NonResidential_Building_Volume.png)
+
+### Permafrost Damage Risk
+Projected mid-century infrastructure damages from permafrost degradation.
+:::
+
+::: {.g-col-4}
+![](assets\images\2panel_dam_cost_res_usd2024_p50.png)
+
+::: {.g-col-4}
+![](assets\images\2panel_dam_cost_nonres_usd2024_p50.png)
+
+### Settlement Change
+Nighttime lights reveal settlement activity change across the Russian Arctic.
+:::
+
+:::
