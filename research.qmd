@@ -1,43 +1,36 @@
 ---
-title: "Permafrost Infrastructure Risk"
+title: Research
 page-layout: full
 ---
----
 
-# Permafrost Infrastructure Risk
-
-## Overview
-
-This project develops a high-resolution Arctic building inventory and combines it with geotechnical permafrost models to estimate mid-century infrastructure damages across Alaska, Canada, and Russia.
-
----
+# Pan-Arctic Infrastructure Exposure
 
 ## Residential Building Volume
 
-![](assets/images/BC_overlay_LAEA_Residential_Building_Volume.png){width=100%}
+The figure below shows the estimated residential building volume across Arctic permafrost regions.
 
-*Estimated residential building volume across the Arctic.*
+![](assets/images/BC_overlay_LAEA_Residential_Building_Volume.png){width=100%}
 
 ---
 
 ## Non-Residential Building Volume
 
-![](assets/images/BC_overlay_LAEA_NonResidential_Building_Volume.png){width=100%}
+Estimated non-residential building volume used for infrastructure damage assessment.
 
-*Estimated non-residential building volume across the Arctic.*
+![](assets/images/BC_overlay_LAEA_NonResidential_Building_Volume.png){width=100%}
 
 ---
 
-## Projected Residential Damages
+## Residential Infrastructure Damages
+
+Projected mid-century damages under a moderate climate scenario.
 
 ![](assets/images/2panel_dam_cost_res_usd2024_p50.png){width=100%}
 
-*Projected mid-century residential infrastructure damages under a median climate scenario.*
-
 ---
 
-## Projected Non-Residential Damages
+## Non-Residential Infrastructure Damages
+
+Projected mid-century damages for non-residential infrastructure.
 
 ![](assets/images/2panel_dam_cost_nonres_usd2024_p50.png){width=100%}
-
-*Projected mid-century non-residential infrastructure damages under a median climate scenario.*
