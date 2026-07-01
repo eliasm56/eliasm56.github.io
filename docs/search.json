@@ -91,39 +91,39 @@
     "text": "Contact\nEmail: your.email@uconn.edu\nGitHub: https://github.com/eliasm56"
   },
   {
-    "objectID": "research.html#overview",
-    "href": "research.html#overview",
-    "title": "Permafrost Infrastructure Risk",
-    "section": "Overview",
-    "text": "Overview\nThis project develops a high-resolution Arctic building inventory and combines it with geotechnical permafrost models to estimate mid-century infrastructure damages across Alaska, Canada, and Russia."
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The figure below shows the estimated residential building volume across Arctic permafrost regions.\n\n\n\n\n\nEstimated non-residential building volume used for infrastructure damage assessment.\n\n\n\n\n\nProjected mid-century damages under a moderate climate scenario.\n\n\n\n\n\nProjected mid-century damages for non-residential infrastructure."
   },
   {
     "objectID": "research.html#residential-building-volume",
     "href": "research.html#residential-building-volume",
-    "title": "Permafrost Infrastructure Risk",
-    "section": "Residential Building Volume",
-    "text": "Residential Building Volume\n\nEstimated residential building volume across the Arctic."
+    "title": "Research",
+    "section": "",
+    "text": "The figure below shows the estimated residential building volume across Arctic permafrost regions."
   },
   {
     "objectID": "research.html#non-residential-building-volume",
     "href": "research.html#non-residential-building-volume",
-    "title": "Permafrost Infrastructure Risk",
-    "section": "Non-Residential Building Volume",
-    "text": "Non-Residential Building Volume\n\nEstimated non-residential building volume across the Arctic."
+    "title": "Research",
+    "section": "",
+    "text": "Estimated non-residential building volume used for infrastructure damage assessment."
   },
   {
-    "objectID": "research.html#projected-residential-damages",
-    "href": "research.html#projected-residential-damages",
-    "title": "Permafrost Infrastructure Risk",
-    "section": "Projected Residential Damages",
-    "text": "Projected Residential Damages\n\nProjected mid-century residential infrastructure damages under a median climate scenario."
+    "objectID": "research.html#residential-infrastructure-damages",
+    "href": "research.html#residential-infrastructure-damages",
+    "title": "Research",
+    "section": "",
+    "text": "Projected mid-century damages under a moderate climate scenario."
   },
   {
-    "objectID": "research.html#projected-non-residential-damages",
-    "href": "research.html#projected-non-residential-damages",
-    "title": "Permafrost Infrastructure Risk",
-    "section": "Projected Non-Residential Damages",
-    "text": "Projected Non-Residential Damages\n\nProjected mid-century non-residential infrastructure damages under a median climate scenario."
+    "objectID": "research.html#non-residential-infrastructure-damages",
+    "href": "research.html#non-residential-infrastructure-damages",
+    "title": "Research",
+    "section": "",
+    "text": "Projected mid-century damages for non-residential infrastructure."
   },
   {
     "objectID": "cv.html",

@@ -8,10 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - publications.qmd
-      - cv.qmd
-      - contact.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
     right:
       - icon: github
         href: https://github.com/eliasm56
