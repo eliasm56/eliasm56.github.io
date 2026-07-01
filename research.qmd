@@ -1,51 +1,43 @@
 ---
-title: Research
+title: "Permafrost Infrastructure Risk"
+page-layout: full
+---
 ---
 
-# Research
+# Permafrost Infrastructure Risk
 
-## Permafrost Infrastructure Damage
+## Overview
 
-::: {.grid}
+This project develops a high-resolution Arctic building inventory and combines it with geotechnical permafrost models to estimate mid-century infrastructure damages across Alaska, Canada, and Russia.
 
-::: {.g-col-6}
+---
 
-![](assets/images/BC_overlay_LAEA_Residential_Building_Volume.png)
+## Residential Building Volume
 
-### Residential Building Volume
+![](assets/images/BC_overlay_LAEA_Residential_Building_Volume.png){width=100%}
 
-Deep learning-derived estimates of residential building volume across the Arctic.
+*Estimated residential building volume across the Arctic.*
 
-:::
+---
 
-::: {.g-col-6}
+## Non-Residential Building Volume
 
-![](assets/images/BC_overlay_LAEA_NonResidential_Building_Volume.png)
+![](assets/images/BC_overlay_LAEA_NonResidential_Building_Volume.png){width=100%}
 
-### Non-Residential Building Volume
+*Estimated non-residential building volume across the Arctic.*
 
-Estimated non-residential building volume used for infrastructure damage assessment.
+---
 
-:::
+## Projected Residential Damages
 
-::: {.g-col-6}
+![](assets/images/2panel_dam_cost_res_usd2024_p50.png){width=100%}
 
-![](assets/images/2panel_dam_cost_res_usd2024_p50.png)
+*Projected mid-century residential infrastructure damages under a median climate scenario.*
 
-### Residential Damage Estimates
+---
 
-Projected mid-century residential infrastructure damages from permafrost degradation.
+## Projected Non-Residential Damages
 
-:::
+![](assets/images/2panel_dam_cost_nonres_usd2024_p50.png){width=100%}
 
-::: {.g-col-6}
-
-![](assets/images/2panel_dam_cost_nonres_usd2024_p50.png)
-
-### Non-Residential Damage Estimates
-
-Projected mid-century non-residential infrastructure damages from permafrost degradation.
-
-:::
-
-:::
+*Projected mid-century non-residential infrastructure damages under a median climate scenario.*
