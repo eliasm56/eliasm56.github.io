@@ -5,32 +5,23 @@ page-layout: full
 
 # Pan-Arctic Infrastructure Exposure
 
-## Residential Building Volume
+## Residential Building Damages
 
 The figure below shows the estimated residential building volume across Arctic permafrost regions.
 
 ![](assets/images/BC_overlay_LAEA_Residential_Building_Volume.png){width=100%}
 
+![](assets\images\2panel_dam_cost_res_usd2024_p50_continuous.png){width=100%}
+
 ---
 
-## Non-Residential Building Volume
+## Non-Residential Building Damages
 
 Estimated non-residential building volume used for infrastructure damage assessment.
 
 ![](assets/images/BC_overlay_LAEA_NonResidential_Building_Volume.png){width=100%}
 
----
-
-## Residential Infrastructure Damages
-
-Projected mid-century damages under a moderate climate scenario.
-
-![](assets\images\2panel_dam_cost_res_usd2024_p50_continuous.png){width=100%}
-
----
-
-## Non-Residential Infrastructure Damages
-
-Projected mid-century damages for non-residential infrastructure.
-
 ![](assets\images\2panel_dam_cost_nonres_usd2024_p50_continuous.png){width=100%}
+
+---
+
