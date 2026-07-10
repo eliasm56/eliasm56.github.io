@@ -46,42 +46,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "PhD Candidate | Geospatial Data Scientist\nUniversity of Connecticut\nI use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments."
+    "text": "PhD Candidate | Geospatial Data Scientist\nUniversity of Connecticut\nI use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments.\nResearch Publications CV"
   },
   {
-    "objectID": "index.html#elias-manos",
-    "href": "index.html#elias-manos",
+    "objectID": "index.html#news-media",
+    "href": "index.html#news-media",
     "title": "Home",
-    "section": "",
-    "text": "PhD Candidate | Geospatial Data Scientist\nUniversity of Connecticut\nI use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments."
-  },
-  {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Home",
-    "section": "Research Areas",
-    "text": "Research Areas\n\n\nArctic Infrastructure Risk\nEstimating climate-related exposure and damages to buildings and infrastructure across permafrost regions.\n\n\nGeoAI for Building Detection\nDeveloping deep learning methods to map buildings in remote and data-scarce Arctic regions.\n\n\nNighttime Lights & Settlement Change\nUsing satellite nighttime lights to characterize post-Soviet settlement decline and activity change.\n\n\nRemote Sensing for Human Geography\nCombining Earth observation, population data, and spatial modeling to study human-environment systems."
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Home",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nHABITAT: Arctic Building Footprints\nA pan-Arctic building inventory developed using deep learning and high-resolution satellite imagery.\n\n\nPermafrost Degradation Damages\nEstimating mid-century damages to Arctic buildings from permafrost degradation.\n\n\nRussian Arctic Settlement Change\nUsing nighttime lights and settlement population records to identify severe demographic and infrastructure decline."
-  },
-  {
-    "objectID": "index.html#featured-first-author-publications",
-    "href": "index.html#featured-first-author-publications",
-    "title": "Home",
-    "section": "Featured First-Author Publications",
-    "text": "Featured First-Author Publications\n\nRefined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages\nEarth’s Future · 2026\nEstimated mid-century permafrost degradation damages across Alaska, Russia, and Canada using improved Arctic building stock data.\n\n\nPermafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios\nCommunications Earth & Environment · 2025\nProjected permafrost-related infrastructure damages in Alaska using satellite-derived building and road exposure data.\n\n\nA multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping\nInternational Journal of Remote Sensing · 2023\nBenchmarked CNN architectures for detecting Arctic human-built infrastructure from sub-meter satellite imagery.\nSee all publications →"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Home",
-    "section": "News",
-    "text": "News\n\n2026 — Earth’s Future paper accepted.\n2026 — Communications Earth & Environment paper accepted in principle.\n2026 — Building personal research website."
+    "section": "News & Media",
+    "text": "News & Media\n\nDeveloping a Clearer Understanding of Permafrost Thaw Risk in Alaska\nUConn Today · April 2025\nFeature story on our Alaska permafrost infrastructure risk work.\n\n\nCost estimates rising for permafrost-related damage to Alaska roads and buildings\nAnchorage Daily News · May 2025\nCoverage of updated infrastructure damage estimates from thawing permafrost.\n\n\nCanada’s North is warming from the ground up — and our infrastructure isn’t ready\nThe Conversation\nArticle on infrastructure vulnerability in northern Canada.\n\n\nThawing permafrost is causing trouble for the Red Dog mine. Solutions could be costly.\nAnchorage Daily News · December 2025\nReporting on permafrost-related infrastructure challenges at Red Dog Mine.\n\n\nPermafrost thaw damage cost to infrastructure\nWoodwell Climate Research Center\nResearch summary on projected Alaska infrastructure damages from permafrost thaw."
   },
   {
     "objectID": "index.html#contact",
