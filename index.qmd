@@ -1,88 +1,66 @@
 ---
 title: "Home"
+page-layout: full
+toc: false
 ---
 
-## Elias Manos
+::: {.home-hero}
 
-::: {.hero}
+::: {.profile-photo}
+![](assets/images/profile.jpg)
+:::
+
+::: {.profile-text}
+# Elias Manos
+
 **PhD Candidate | Geospatial Data Scientist**  
 University of Connecticut
 
 I use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments.
-:::
 
----
-
-## Research Areas
-
-::: {.grid}
-
-::: {.g-col-6}
-### Arctic Infrastructure Risk
-Estimating climate-related exposure and damages to buildings and infrastructure across permafrost regions.
-:::
-
-::: {.g-col-6}
-### GeoAI for Building Detection
-Developing deep learning methods to map buildings in remote and data-scarce Arctic regions.
-:::
-
-::: {.g-col-6}
-### Nighttime Lights & Settlement Change
-Using satellite nighttime lights to characterize post-Soviet settlement decline and activity change.
-:::
-
-::: {.g-col-6}
-### Remote Sensing for Human Geography
-Combining Earth observation, population data, and spatial modeling to study human-environment systems.
+[Research](research.html){.btn .btn-primary} [Publications](publications.html){.btn .btn-outline-primary} [CV](cv.html){.btn .btn-outline-primary}
 :::
 
 :::
 
 ---
 
-## Featured Projects
+## News & Media
 
-### HABITAT: Arctic Building Footprints
+::: {.news-card}
+### [Developing a Clearer Understanding of Permafrost Thaw Risk in Alaska](https://today.uconn.edu/2025/04/developing-a-clearer-understanding-of-permafrost-thaw-risk-in-alaska/)
 
-A pan-Arctic building inventory developed using deep learning and high-resolution satellite imagery.
+**UConn Today** · April 2025  
+Feature story on our Alaska permafrost infrastructure risk work.
+:::
 
-### Permafrost Degradation Damages
+::: {.news-card}
+### [Cost estimates rising for permafrost-related damage to Alaska roads and buildings](https://www.adn.com/alaska-news/science/2025/05/09/cost-estimates-rising-for-permafrost-related-damage-to-alaska-roads-and-buildings/)
 
-Estimating mid-century damages to Arctic buildings from permafrost degradation.
+**Anchorage Daily News** · May 2025  
+Coverage of updated infrastructure damage estimates from thawing permafrost.
+:::
 
-### Russian Arctic Settlement Change
+::: {.news-card}
+### [Canada's North is warming from the ground up — and our infrastructure isn't ready](https://theconversation.com/canadas-north-is-warming-from-the-ground-up-and-our-infrastructure-isnt-ready-272005)
 
-Using nighttime lights and settlement population records to identify severe demographic and infrastructure decline.
+**The Conversation**  
+Article on infrastructure vulnerability in northern Canada.
+:::
 
----
+::: {.news-card}
+### [Thawing permafrost is causing trouble for the Red Dog mine. Solutions could be costly.](https://www.adn.com/alaska-news/rural-alaska/2025/12/07/thawing-permafrost-is-causing-trouble-for-the-red-dog-mine-solutions-could-be-costly/)
 
-## Featured First-Author Publications
+**Anchorage Daily News** · December 2025  
+Reporting on permafrost-related infrastructure challenges at Red Dog Mine.
+:::
 
-### Refined Modeling of Arctic Circumpolar Building Stock Increases Estimated Mid-Century Permafrost Degradation Damages
+::: {.news-card}
+### [Permafrost thaw damage cost to infrastructure](https://www.woodwellclimate.org/permafrost-thaw-infrastructure-damage-alaska/)
 
-**Earth’s Future** · 2026  
-Estimated mid-century permafrost degradation damages across Alaska, Russia, and Canada using improved Arctic building stock data.
-
-### Permafrost thaw-related infrastructure damage costs in Alaska are projected to double under medium and high emission scenarios
-
-**Communications Earth & Environment** · 2025  
-Projected permafrost-related infrastructure damages in Alaska using satellite-derived building and road exposure data.
-
-### A multi-objective comparison of CNN architectures in Arctic human-built infrastructure mapping
-
-**International Journal of Remote Sensing** · 2023  
-Benchmarked CNN architectures for detecting Arctic human-built infrastructure from sub-meter satellite imagery.
-
-[See all publications →](publications.html)
-
----
-
-## News
-
-- **2026** — Earth’s Future paper accepted.
-- **2026** — Communications Earth & Environment paper accepted in principle.
-- **2026** — Building personal research website.
+**Woodwell Climate Research Center**  
+Research summary on projected Alaska infrastructure damages from permafrost thaw.
+:::
 
 ---
 
