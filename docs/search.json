@@ -46,21 +46,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "PhD Candidate | Geospatial Data Scientist\nUniversity of Connecticut\nI use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments.\nResearch Publications CV"
-  },
-  {
-    "objectID": "index.html#news-media",
-    "href": "index.html#news-media",
-    "title": "Home",
-    "section": "News & Media",
-    "text": "News & Media\n\nDeveloping a Clearer Understanding of Permafrost Thaw Risk in Alaska\nUConn Today · April 2025\nFeature story on our Alaska permafrost infrastructure risk work.\n\n\nCost estimates rising for permafrost-related damage to Alaska roads and buildings\nAnchorage Daily News · May 2025\nCoverage of updated infrastructure damage estimates from thawing permafrost.\n\n\nCanada’s North is warming from the ground up — and our infrastructure isn’t ready\nThe Conversation\nArticle on infrastructure vulnerability in northern Canada.\n\n\nThawing permafrost is causing trouble for the Red Dog mine. Solutions could be costly.\nAnchorage Daily News · December 2025\nReporting on permafrost-related infrastructure challenges at Red Dog Mine.\n\n\nPermafrost thaw damage cost to infrastructure\nWoodwell Climate Research Center\nResearch summary on projected Alaska infrastructure damages from permafrost thaw."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
-    "section": "Contact",
-    "text": "Contact\nEmail: your.email@uconn.edu\nGitHub: https://github.com/eliasm56"
+    "text": "Elias Manos\nPh.D. Candidate\nDepartment of Natural Resources & the Environment\nUniversity of Connecticut\nI am a geospatial data scientist specializing in satellite Earth observation, geospatial artificial intelligence (GeoAI), and spatial modeling. My research focuses on Arctic infrastructure, permafrost degradation, climate risk, and the development of scalable geospatial datasets for data-scarce regions.\nMy work combines deep learning, graph neural networks, computer vision, and remote sensing to characterize the built environment and assess infrastructure vulnerability across the circumpolar Arctic.\nResearch Interests\n\nArctic Infrastructure\nGeoAI\nRemote Sensing\nClimate Risk\nPermafrost\nHuman-Environment Systems\n\nResearch Publications CV\n\n\n\n\nNews & Media\n\nApril 2025\nDeveloping a Clearer Understanding of Permafrost Thaw Risk in Alaska\nUConn Today\nResearch describing improved estimates of Alaska infrastructure damages using deep learning-derived building inventories.\nRead Article →\n\n\n\nMay 2025\nCost estimates rising for permafrost-related damage to Alaska roads and buildings\nAnchorage Daily News\nCoverage of our updated projections of infrastructure damages associated with thawing permafrost.\nRead Article →\n\n\n\n2025\nCanada’s North is warming from the ground up — and our infrastructure isn’t ready\nThe Conversation\nDiscussion of permafrost degradation and northern infrastructure resilience.\nRead Article →\n\n\n\nDecember 2025\nThawing permafrost is causing trouble for the Red Dog Mine\nAnchorage Daily News\nOur research helps explain infrastructure challenges associated with thawing permafrost in northwest Alaska.\nRead Article →\n\n\n\nWoodwell Climate Research Center\nPermafrost thaw damage to infrastructure\nResearch summary highlighting our Alaska infrastructure damage projections.\nRead Article →"
   },
   {
     "objectID": "research.html",

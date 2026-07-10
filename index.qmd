@@ -1,70 +1,94 @@
 ---
-title: "Home"
+title: Home
 page-layout: full
 toc: false
 ---
 
-::: {.home-hero}
+::: {.bio}
 
-::: {.profile-photo}
-![](assets/images/profile.jpg)
-:::
+![](assets/images/profile.jpg){.profile-img}
 
-::: {.profile-text}
+::: {.bio-text}
+
 # Elias Manos
 
-**PhD Candidate | Geospatial Data Scientist**  
+**Ph.D. Candidate**  
+Department of Natural Resources & the Environment  
 University of Connecticut
 
-I use satellite Earth observation, GeoAI, and spatial modeling to study Arctic infrastructure, settlement change, permafrost risk, and data-scarce built environments.
+I am a geospatial data scientist specializing in satellite Earth observation, geospatial artificial intelligence (GeoAI), and spatial modeling. My research focuses on Arctic infrastructure, permafrost degradation, climate risk, and the development of scalable geospatial datasets for data-scarce regions.
 
-[Research](research.html){.btn .btn-primary} [Publications](publications.html){.btn .btn-outline-primary} [CV](cv.html){.btn .btn-outline-primary}
+My work combines deep learning, graph neural networks, computer vision, and remote sensing to characterize the built environment and assess infrastructure vulnerability across the circumpolar Arctic.
+
+**Research Interests**
+
+- Arctic Infrastructure
+- GeoAI
+- Remote Sensing
+- Climate Risk
+- Permafrost
+- Human-Environment Systems
+
+[Research](research.html){.btn .btn-primary}
+[Publications](publications.html){.btn .btn-outline-primary}
+[CV](cv.html){.btn .btn-outline-primary}
+
 :::
 
 :::
 
 ---
 
-## News & Media
+# News & Media
 
-::: {.news-card}
-### [Developing a Clearer Understanding of Permafrost Thaw Risk in Alaska](https://today.uconn.edu/2025/04/developing-a-clearer-understanding-of-permafrost-thaw-risk-in-alaska/)
+### April 2025
 
-**UConn Today** · April 2025  
-Feature story on our Alaska permafrost infrastructure risk work.
-:::
+**Developing a Clearer Understanding of Permafrost Thaw Risk in Alaska**  
+*UConn Today*
 
-::: {.news-card}
-### [Cost estimates rising for permafrost-related damage to Alaska roads and buildings](https://www.adn.com/alaska-news/science/2025/05/09/cost-estimates-rising-for-permafrost-related-damage-to-alaska-roads-and-buildings/)
+Research describing improved estimates of Alaska infrastructure damages using deep learning-derived building inventories.
 
-**Anchorage Daily News** · May 2025  
-Coverage of updated infrastructure damage estimates from thawing permafrost.
-:::
-
-::: {.news-card}
-### [Canada's North is warming from the ground up — and our infrastructure isn't ready](https://theconversation.com/canadas-north-is-warming-from-the-ground-up-and-our-infrastructure-isnt-ready-272005)
-
-**The Conversation**  
-Article on infrastructure vulnerability in northern Canada.
-:::
-
-::: {.news-card}
-### [Thawing permafrost is causing trouble for the Red Dog mine. Solutions could be costly.](https://www.adn.com/alaska-news/rural-alaska/2025/12/07/thawing-permafrost-is-causing-trouble-for-the-red-dog-mine-solutions-could-be-costly/)
-
-**Anchorage Daily News** · December 2025  
-Reporting on permafrost-related infrastructure challenges at Red Dog Mine.
-:::
-
-::: {.news-card}
-### [Permafrost thaw damage cost to infrastructure](https://www.woodwellclimate.org/permafrost-thaw-infrastructure-damage-alaska/)
-
-**Woodwell Climate Research Center**  
-Research summary on projected Alaska infrastructure damages from permafrost thaw.
-:::
+[Read Article →](https://today.uconn.edu/2025/04/developing-a-clearer-understanding-of-permafrost-thaw-risk-in-alaska/)
 
 ---
 
-## Contact
+### May 2025
 
-Email: `your.email@uconn.edu`  
-GitHub: <https://github.com/eliasm56>
+**Cost estimates rising for permafrost-related damage to Alaska roads and buildings**  
+*Anchorage Daily News*
+
+Coverage of our updated projections of infrastructure damages associated with thawing permafrost.
+
+[Read Article →](https://www.adn.com/alaska-news/science/2025/05/09/cost-estimates-rising-for-permafrost-related-damage-to-alaska-roads-and-buildings/)
+
+---
+
+### 2025
+
+**Canada's North is warming from the ground up — and our infrastructure isn't ready**  
+*The Conversation*
+
+Discussion of permafrost degradation and northern infrastructure resilience.
+
+[Read Article →](https://theconversation.com/canadas-north-is-warming-from-the-ground-up-and-our-infrastructure-isnt-ready-272005)
+
+---
+
+### December 2025
+
+**Thawing permafrost is causing trouble for the Red Dog Mine**  
+*Anchorage Daily News*
+
+Our research helps explain infrastructure challenges associated with thawing permafrost in northwest Alaska.
+
+[Read Article →](https://www.adn.com/alaska-news/rural-alaska/2025/12/07/thawing-permafrost-is-causing-trouble-for-the-red-dog-mine-solutions-could-be-costly/)
+
+---
+
+### Woodwell Climate Research Center
+
+**Permafrost thaw damage to infrastructure**
+
+Research summary highlighting our Alaska infrastructure damage projections.
+
+[Read Article →](https://www.woodwellclimate.org/permafrost-thaw-infrastructure-damage-alaska/)
